@@ -26,3 +26,9 @@ This repository contains notes and examples for my learning C programming from s
 - Basic understanding of programming concepts
 
 Happy coding!
+
+## RoadMap
+
+- [ ] Add BeeJ's C Book sections
+- [ ] Create Combined exercies or noval kata's to main function
+- [ ] Add tutorial for more complex projects.

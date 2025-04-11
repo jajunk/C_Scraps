@@ -1,0 +1,24 @@
+# Ignore object files and compiled binaries
+*.o
+*.out
+*.exe
+
+# Ignore dependency files
+*.d
+
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+# Ignore editor and IDE files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.user
+*.workspace
+
+# Ignore core dumps
+core

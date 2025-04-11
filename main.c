@@ -44,6 +44,7 @@ int main(void) {
     // Compute 5 + i, _then_ increment i
     printf("%d, %d\n", i, j);
     // Prints 11, 15
+printf("Hello from nano!\n");
 
     return 0;
 }

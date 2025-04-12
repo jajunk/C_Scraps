@@ -32,3 +32,8 @@ Happy coding!
 - [ ] Add BeeJ's C Book sections
 - [ ] Create Combined exercies or noval kata's to main function
 - [ ] Add tutorial for more complex projects.
+- [ ] Compare C to C++
+- [ ] Compare C to Golang
+- [ ] Compare C Rust
+- [ ] Compare C to Python
+- [ ] Compare C to Swift
